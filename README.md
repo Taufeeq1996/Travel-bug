@@ -1,7 +1,7 @@
 # Forum App in React & Redux + Django
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+It is a USA traveling website from where we can select different exciting places for holiday , with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
