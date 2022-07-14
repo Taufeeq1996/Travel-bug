@@ -8,7 +8,7 @@ var baseURL;
 //    ;
 // }
 // baseURL = 'https://travelbugs-backend.herokuapp.com/';
-baseURL = 'https://locall.host/3000/'
+baseURL = 'https://travelbugs-backend.herokuapp.com/'
 
 const api = axios.create({
     baseURL: baseURL,
